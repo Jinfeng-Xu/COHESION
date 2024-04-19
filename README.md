@@ -1,4 +1,4 @@
-# CROWNER: Composite Graph Convolutional Network with Interactive Revision for Multimodal Recommendation
+# COHESION: Composite Graph Convolutional Network with Dual-Stage Fusion for Multimodal Recommendation
 
 <!-- PROJECT LOGO -->
 
@@ -6,7 +6,7 @@
 
 This is the Pytorch implementation for our CROWNER paper:
 
->CROWNER: Composite Graph Convolutional Network with Interactive Revision for Multimodal Recommendation
+>COHESION: Composite Graph Convolutional Network with Dual-Stage Fusion for Multimodal Recommendation
 
 ## Environment Requirement
 - python 3.9
@@ -26,8 +26,8 @@ Download from Google Drive: [Baby/Sports](https://drive.google.com/drive/folders
 ## Performance Comparison
 <img src="image/result.png" width="900px" height="380px"/>
 
-## Citing CROWNER
-If you find CROWNER useful in your research, please consider citing our [paper]().
+## Citing COHESION
+If you find COHESION useful in your research, please consider citing our [paper]().
 ```
 
 ```
