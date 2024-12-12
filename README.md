@@ -14,9 +14,7 @@ This is the Pytorch implementation for our CROWNER paper:
 
 ## Dataset
 
-We provide three processed datasets: Baby, Sports.
-
-Download from Google Drive: [Baby/Sports](https://drive.google.com/drive/folders/1tU4IxYbLXMkp_DbIOPGvCry16uPvolLk)
+All experiments conducted on three processed datasets: Baby, Sports, Clothing
 
 ## Training
   ```
@@ -26,13 +24,3 @@ Download from Google Drive: [Baby/Sports](https://drive.google.com/drive/folders
 ## Performance Comparison
 <img src="image/result.png" width="900px" height="380px"/>
 
-## Citing COHESION
-If you find COHESION useful in your research, please consider citing our [paper]().
-```
-
-```
-The code is released for academic research use only. For commercial use, please contact [Jinfeng Xu](jinfeng.xu0605@gmail.com).
-
-
-## Acknowledgement
-The structure of this code is  based on [MMRec](https://github.com/enoche/MMRec). Thank for their work.
