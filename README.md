@@ -29,10 +29,11 @@ All experiments conducted on three processed datasets: Baby, Sports, Clothing
 If you find COHESION useful in your research, please consider citing our [paper](https://arxiv.org/pdf/2504.04452).
 
 ```
-@article{xu2025cohesion,
+@inproceedings{xu2025cohesion,
   title={COHESION: Composite Graph Convolutional Network with Dual-Stage Fusion for Multimodal Recommendation},
   author={Xu, Jinfeng and Chen, Zheyu and Wang, Wei and Hu, Xiping and Kim, Sang-Wook and Ngai, Edith CH},
-  journal={arXiv preprint arXiv:2504.04452},
+  booktitle={Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages={1830--1839},
   year={2025}
 }
 ```
