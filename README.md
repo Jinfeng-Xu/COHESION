@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This is the Pytorch implementation for our CROWNER paper:
+This is the Pytorch implementation for our COHESION paper:
 
 >COHESION: Composite Graph Convolutional Network with Dual-Stage Fusion for Multimodal Recommendation
 
